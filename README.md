@@ -52,7 +52,7 @@ $ yarn dev
 
 ## 💻 Project
 
-[Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜
+[Podcastr] to bring you even closer to the best technology podcasts! 💜
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
 
@@ -69,5 +69,3 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ---
-
-<p align="center">Made with 💜 by Eduardo Rocha</p>s
