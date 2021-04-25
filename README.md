@@ -14,10 +14,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="120px">
-</p>
-
 ## 🧪 Technologies
 
 This project was developed using the following technologies:
@@ -54,7 +50,7 @@ This is a project developed during the **[Next Level Week](https://nextlevelweek
 
 You can view the project layout through the links below:
 
-- [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
+- [Layout Web](https://www.figma.com/file/FARoD6PfJ88jjUG0Ooqf89/Podcastr-(Copy)?node-id=160%3A2761)
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
